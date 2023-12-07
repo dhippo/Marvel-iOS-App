@@ -115,24 +115,4 @@ struct Marvel: Codable {
 
 
 
-class NetworkCorrectionProf {
-    
-    let urlString = "https://gateway.marvel.com:443/v1/public/characters?ts=10000&apikey=9324990817df03907a237fc52958e4f1&hash=a53826a71981b7eb2bde14709476d4f1"
- 
-    func getMarvelsFromApi(){
-        let url: URL? = URL(string: urlString)
-        
-        if let strongUrl = url{
-            
-            let urlRequest = URLRequest(url: url)
-            
-            URLSession.shared.dataTask(with: urlRequest) { data, urlResponse, error in
-                <#code#>
-            }
-            
-        }
-        
-        
-    }
-    
-}
+
