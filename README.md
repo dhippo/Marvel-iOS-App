@@ -12,8 +12,11 @@ Avec une requête API au site https://developer.marvel.com/ permettant de récup
 let url = URL(string: "https://gateway.marvel.com:443/v1/public/characters")
 ```
 
-## Screens
+## Screens de l'application
 
 ![Marvel APP Screen](screens/marvel-app-screen.png "screen1")
 ![Marvel APP Screen 2](screens/screen2.png "screen1")
 
+## Développement XCODE 
+
+![XCODE APP Screen](screens/xcode-screen.png "xcode")
