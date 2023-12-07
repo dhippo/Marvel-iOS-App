@@ -1,4 +1,4 @@
-# Application iOS en Swift permettant de Super-Héros
+# Application iOS en Swift de Super-Héros Marvel
 
 Application permettant de s'authentifier et de voir les détails de ses héros préférés.
 
